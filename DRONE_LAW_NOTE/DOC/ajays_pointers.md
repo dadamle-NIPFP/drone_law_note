@@ -1,5 +1,3 @@
-# These are Ajay's notes from last year on a paper on drone policy
-
 1. Introduction:
    1000 word summary
 
